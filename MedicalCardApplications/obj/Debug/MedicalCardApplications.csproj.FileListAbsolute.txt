@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\bin\Debug\MedicalCardApplications.exe.config
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\bin\Debug\MedicalCardApplications.exe
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\bin\Debug\MedicalCardApplications.pdb
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.Form1.resources
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.exe
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.pdb
+C:\Users\Lenovo\source\repos\MedicalCardApplications\MedicalCardApplications\obj\Debug\MedicalCardApplications.Form2.resources
